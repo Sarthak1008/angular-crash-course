@@ -11,8 +11,8 @@ export class MyFirstService {
 
   init(): void {
     this.insert({
-      name: 'Alibou',
-      email: 'alibou@mail.com',
+      name: 'Sarthak',
+      email: 'sarthak@mail.com',
       message: 'Hello world'
     });
     this.insert({
